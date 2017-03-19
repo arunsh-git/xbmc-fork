@@ -7,6 +7,7 @@ CXXFLAGS=@CXXFLAGS@
 LDFLAGS=@LDFLAGS@
 INCLUDES=@INCLUDES@
 
+
 all : compile 
 	$(MAKE) xbmc.bin
 	$(MAKE) xbmc-xrandr
